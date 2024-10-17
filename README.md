@@ -15,13 +15,12 @@ python --version
 pip --version
 ```
 ### Шаг 3: Скачайте код AutoCliker Blum с GitHub
-[КЛИК]()
 
 ### Шаг 4: Установите зависимости
 В командной строке перейдите в папку с файлами проекта и установите зависимости:
 ```sh
 cd путь/к/вашей/папке
-Пример: C:\Users\Owner\Desktop\AutoClickerBlum-main\AutoClikerBlum
+Пример:cd C:\Users\Owner\Desktop\AutoClickerBlum-main\AutoClikerBlum
 pip install -r requirements.txt
 ```
 Для запуска командной строки сразу в нужной папке, можете ввести cmd в адресной строке папки.
